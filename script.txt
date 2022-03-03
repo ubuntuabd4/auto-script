@@ -1,2 +1,2 @@
-git clone https://github.com/reuniware/MiningLauncher.git
-md test
+cd ..
+md test-auto-script
