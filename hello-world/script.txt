@@ -1,2 +1,2 @@
 cd ..
-md test-auto-script
+mkdir test-auto-script
