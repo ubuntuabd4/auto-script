@@ -1,2 +1,2 @@
 cd ..
-mkdir test-auto-script
+tree
